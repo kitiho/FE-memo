@@ -110,6 +110,7 @@ const rollupOptions6 = {
 }
 
   // 图片压缩
+  
   `npm i vite-plugin-imagemin -D`
 import viteImagemin from 'vite-plugin-imagemin'
 const rollupOptions7 = {
